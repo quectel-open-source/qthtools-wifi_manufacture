@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/quectel.ico</file>
+        <file>icon/quectel.png</file>
+        <file>icon/quectel.rc</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>png/QComboBox_down.png</file>
+        <file>png/quectel.png</file>
+        <file>png/log.png</file>
+        <file>png/tips.png</file>
+        <file>png/tools.png</file>
+        <file>png/port1.png</file>
+        <file>png/port2.png</file>
+        <file>png/port3.png</file>
+        <file>png/port4.png</file>
+        <file>png/updateClose.png</file>
+    </qresource>
+</RCC>
